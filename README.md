@@ -17,7 +17,6 @@ collecting, list making as an aesthetic practice
 Beispiel:
 #### Bücher über Krankheit/Behinderung
 ##### von außen sichtbare disability
-
 - I Live a Life Like Yours: A Memoir by Jan Grue     <3
 - Being Seen: One Deafblind Woman's Fight to End Ableism by Elsa Sjunneson
 - True Biz — Sara Nović
@@ -36,7 +35,7 @@ Beispiel:
 - Run Towards the Danger: Confrontations with a Body of Memory by Sarah Polley
 - In the Body of the World: A Memoir of Cancer and Connection by Eve Ensler
 - Illness as Metaphor and AIDS and Its Metaphors — Susan Sontag
--The Cancer Journals by Audre Lorde
+- The Cancer Journals by Audre Lorde
 
 ##### mental health
 - Strangers to Ourselves: Unsettled Minds and the Stories That Make Us — Rachel Aviv 	 <3
