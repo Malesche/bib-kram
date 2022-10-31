@@ -23,9 +23,7 @@ Beispiel:
 - Year of the Tiger: An Activist's Life by Alice Wong
 - Easy Beauty by Chloé Cooper Jones
 - Feminist, Queer, Crip by Alison Kafer
-
 - Disability Visibility: First-Person Stories from the Twenty-first Century edited by Alice Wong
-
 - Care Work: Dreaming Disability Justice by Piepzna-Samarasinha, Leah Lakshmi
 
 
